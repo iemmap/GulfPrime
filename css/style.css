@@ -1494,3 +1494,14 @@ strong {
   color: beige !important;
   
 }
+
+.nav-container{
+  padding: 0px;
+  margin-left: 1rem;
+}
+
+.intro-container{
+  padding-top: 20%;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
