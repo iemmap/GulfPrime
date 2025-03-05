@@ -11,7 +11,7 @@
   // BACKSTRETCH SLIDESHOW
   $('.hero-section').backstretch([
     
-    "images/slideshow/Building2_3.jpg",
+    "images/slideshow/3d-model-residential-building.jpg",
     "images/slideshow/different-car-accessories-arrangement.jpg",
     "images/services/scene-construction-site-with-equipment.jpg"
   ], { duration: 5000, fade: 750 });

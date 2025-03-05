@@ -1501,7 +1501,11 @@ strong {
 }
 
 .intro-container{
-  padding-top: 20%;
+  padding-top: 28%;
   padding-bottom: 0px;
   padding-left: 0px;
+}
+
+.motto{
+  font-size: small;
 }
