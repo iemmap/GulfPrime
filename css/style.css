@@ -751,6 +751,7 @@ strong {
 
 .services-image-wrap:hover .services-image-hover {
   opacity: 1;
+  background: white;
 }
 
 .services-title-link {
@@ -846,27 +847,6 @@ strong {
   transform: scale(1.05);
 }
 
-
-/*---------------------------------------
-  COUNTER NUMBERS              
------------------------------------------*/
-.counter-thumb {
-  margin: 20px;
-  margin-top: 0;
-}
-
-.counter-number {
-  color: var(--secondary-color);
-  display: block;
-}
-
-.counter-number,
-.counter-number-text {
-  color: var(--secondary-color);
-  font-size: var(--h1-font-size);
-  font-weight: var(--font-weight-bold);
-  line-height: normal;
-}
 
 
 /*---------------------------------------

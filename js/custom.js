@@ -3,10 +3,6 @@
 
   "use strict";
 
-  // COUNTER NUMBERS
-  jQuery('.counter-thumb').appear(function () {
-    jQuery('.counter-number').countTo();
-  });
 
   // BACKSTRETCH SLIDESHOW
   $('.hero-section').backstretch([
