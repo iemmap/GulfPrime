@@ -36,6 +36,7 @@
 
   --font-weight-normal:           400;
   --font-weight-medium:           500;
+  --font-weight-semi-bold:           600;
   --font-weight-bold:             700;
 }
 
@@ -1475,17 +1476,11 @@ strong {
   
 }
 
-.nav-container{
-  padding: 0px;
-  margin-left: 1rem;
-}
-
-.intro-container{
-  padding-top: 28%;
-  padding-bottom: 0px;
-  padding-left: 0px;
-}
 
 .motto{
   font-size: small;
+}
+
+.brand{
+  font-weight: var(--font-weight-semi-bold);
 }
